@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'posts/hello_world'
+  get 'posts/blog2'
   get 'posts/blog1'
   get 'home/index'
 
