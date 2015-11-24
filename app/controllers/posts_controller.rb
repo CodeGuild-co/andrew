@@ -1,6 +1,6 @@
 class PostsController < ApplicationController
   def hello_world
   end
-  def First_post
+  def blog1
   end  
 end
